@@ -1,0 +1,14 @@
+{
+  "name": "growth-app-landing-page-with-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "build-css": "sass --watch  scss/input.scss css/style.css"
+  },
+  "author": "SHARIF IQBAL JAMIL",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
